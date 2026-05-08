@@ -1,9 +1,5 @@
-```python
-markdown_content = """# Dokumentation: GitHub CI/CD & Docker (RefCard01 & RefCard02)
 
-Diese Dokumentation beschreibt die Umsetzung von zwei CI/CD-Pipelines für eine Java- und eine React-Anwendung. Sie enthält alle korrigierten Skripte, Fehlerlösungen und eine Checkliste für die Abgabe.
 
----
 
 ## 1. Vorbereitungen
 
@@ -259,4 +255,4 @@ Ich habe die komplette Anleitung als strukturiertes Markdown-Dokument (`.md`) ge
 
 Du kannst das Dokument direkt verwenden. Viel Erfolg bei der Abgabe!
 
-```
+
